@@ -5,13 +5,7 @@
 /.pnp
 .pnp.js
 
-/Style/*
-# json file
-package.json
-package-lock.json
-
-# style fow
-view.css
+name.txt
 
 # testing
 /coverage
