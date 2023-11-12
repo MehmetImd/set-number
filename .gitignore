@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-/Style/*
+/Style
 # json file
 package.json
 package-lock.json
