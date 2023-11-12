@@ -9,6 +9,9 @@
 .package.json
 .package-lock.json
 
+# style fow
+.view.css
+
 # testing
 /coverage
 
