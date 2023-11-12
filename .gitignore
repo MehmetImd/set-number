@@ -6,11 +6,11 @@
 .pnp.js
 
 # json file
-.package.json
-.package-lock.json
+package.json
+package-lock.json
 
 # style fow
-.view.css
+view.css
 
 # testing
 /coverage
