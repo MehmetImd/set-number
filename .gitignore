@@ -5,6 +5,16 @@
 /.pnp
 .pnp.js
 
+<<<<<<< HEAD
+=======
+/src/Style
+# json file
+package.json
+package-lock.json
+
+# style fow
+view.css
+>>>>>>> f1c9eb3072b7fe6654741f0750bf3fe1040198aa
 
 # testing
 /coverage
